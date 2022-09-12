@@ -38,13 +38,6 @@
    https://youtu.be/uEYjXpMDJiU
 
 
-7. Understanding dependency injection
-
-   https://www.youtube.com/watch?v=GB8k2-Egfv0&ab_channel=JavaBrains
-
-   https://www.youtube.com/watch?v=4sD_3BzxJOo&ab_channel=in28minutes-CloudMadeEasy
-
-
 8. Spring Data JPA - JPARepository documentation
 
    https://docs.spring.io/spring-data/jpa/docs/current/reference/html/
